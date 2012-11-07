@@ -1,0 +1,14 @@
+{
+  "author": "Morgan Roderick <morgan@roderick.dk>",
+  "name": "buster-source-files-limit-bug",
+  "description": "Attempt at showing the hard limit of number of source files that can be loaded with BusterJS",
+  "version": "0.0.0",
+  "dependencies": {
+    "exec-sync" : "0.1.5"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
