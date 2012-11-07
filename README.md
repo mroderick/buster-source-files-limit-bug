@@ -2,6 +2,12 @@
 
 There seems to be a limit to how many source files BusterJS can load for running tests in browsers.
 
+This was discovered in Buster v0.6.0
+
+`buster --version`
+
+=> Buster.JS version 0.6.0 Beta 4
+
 That limit seems to be ~425.
 
 For running tests in node, up to 10,000 files have been loaded succesfully (yes, it takes a while).
